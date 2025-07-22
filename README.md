@@ -22,7 +22,9 @@ This is a tool designed for managing and analyzing cycling and EIS (Electrochemi
 - Visualization plots
 - ML diagnosis and predictions 
 
-
 ## Acknowledgments
 - Thanks to the github community for discussion, especially the authors of the proprietary Galvani
 - Built with open-source tools including numpy, pandas, scikit-learn, galvani and matplotlib etc.
+
+## License
+- This project is licensed under the MIT License. See the LICENSE file for details.
