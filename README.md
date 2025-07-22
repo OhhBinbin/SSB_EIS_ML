@@ -30,5 +30,8 @@ This is a tool designed for managing and analyzing cycling and EIS (Electrochemi
 - Thanks to the github community for discussion, especially the authors of the proprietary Galvani
 - Built with open-source tools including numpy, pandas, scikit-learn, galvani and matplotlib etc.
 
+## Citation
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16313223.svg)](https://doi.org/10.5281/zenodo.16313223)
+
 ## License
 - This project is licensed under the MIT License. See the LICENSE file for details.
