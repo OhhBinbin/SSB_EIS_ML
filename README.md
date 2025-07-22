@@ -15,12 +15,16 @@ This is a tool designed for managing and analyzing cycling and EIS (Electrochemi
 ### Input:
 
 - Biologic `.mpr` files (including cycling and EIS test data)
+- path: /raw_data/...
 
 ### Output:
 
 - Databases in SQL
 - Visualization plots
-- ML diagnosis and predictions 
+- ML diagnosis and predictions
+
+### Quick start without data processing
+- run the 03 and 04 models using processed .csv files
 
 ## Acknowledgments
 - Thanks to the github community for discussion, especially the authors of the proprietary Galvani
